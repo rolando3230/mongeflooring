@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HP Pavilion\OneDrive\Desktop\monge\mongeroofing\mongeflooring\build\windows\x64\CMakeFiles\000d0a7f0b82226fd6ce66ea189bc399\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\HP Pavilion\OneDrive\Desktop\monge\mongeroofing\mongeflooring\build\windows\x64\CMakeFiles\853a15a5331ce86696c25b1acc124313\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\HP Pavilion\OneDrive\Desktop\monge\mongeroofing\mongeflooring\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\HP Pavilion\OneDrive\Desktop\monge\mongeroofing\mongeflooring\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{76C20A29-E68C-3FCB-B1EB-1D3BF8516AE5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

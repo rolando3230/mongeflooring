@@ -45,13 +45,13 @@ Row headermobile() {
     crossAxisAlignment: CrossAxisAlignment.start,
     children: [
       _ContactItem(
-        location: 'Baton Rouge La',
-        phone: '708-1522-58884477',
+        location: 'Lafayette La',
+        phone: '705-01337-7035466',
         url: 'https://example.com/hilton-head',
       ),
       _ContactItem(
-        location: 'Lafayette La',
-        phone: '705-0133-77035466 ',
+        location: 'Baton Rouge La',
+        phone: '708-1522-58884477 ',
         url: 'https://example.com/myrtle-beach',
       ),
     ],
@@ -64,13 +64,13 @@ Row wenheader() {
     crossAxisAlignment: CrossAxisAlignment.start, // Aligns children to the top
     children: [
       _ContactItem(
-        location: 'Baton Rouge La',
-        phone: '708-1522-58884477',
+        location: 'Lafayette La',
+        phone: '705-01337-7035466',
         url: 'https://example.com/hilton-head',
       ),
       _ContactItem(
-        location: 'Lafayette La',
-        phone: '705-0133-77035466 ',
+        location: 'Baton Rouge La',
+        phone: '708-1522-58884477 ',
         url: 'https://example.com/myrtle-beach',
       ),
     ],
